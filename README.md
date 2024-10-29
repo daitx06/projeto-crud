@@ -67,3 +67,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # projeto-crud
 # projeto-crud
 # projeto-crud
+
+
+## Teste:
+# php artisan serve
+# http://127.0.0.1:8000/notes
