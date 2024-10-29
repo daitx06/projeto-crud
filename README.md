@@ -67,6 +67,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 
-# Open host server:
-## php artisan serve
-## http://127.0.0.1:8000/notes
+## Open host server:
+- php artisan serve
+- http://127.0.0.1:8000/notes
